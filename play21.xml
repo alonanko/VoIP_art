@@ -1,4 +1,6 @@
 <Response>
-    <Speak> Hello hello hello </Speak>
-    <DTMF>1</DTMF>
+    <Speak loop="3 voice = "WOMAN" language = "fr-CA">pedj</Speak>
+    <Speak loop="3 voice = "MAN" language = "pt-PT">monr</Speak>
+    <Speak loop="3 voice = "WOMAN" language = "fr-CA">qorp</Speak>
+    <Speak loop="3 voice = "WOMAN" language = "fr-CA">lacst</Speak>
 </Response>
