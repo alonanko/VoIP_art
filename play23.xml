@@ -1,0 +1,6 @@
+<Response>
+    <Speak voice = "WOMAN" language = "fr-CA">pedj</Speak>
+    <Speak voice = "MAN" language = "pt-PT">monr</Speak>
+    <Speak voice = "WOMAN" language = "ru-RU">qorp</Speak>
+    <Speak voice = "WOMAN" language = "es-US">lacst</Speak>
+</Response>
