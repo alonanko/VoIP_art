@@ -1,14 +1,14 @@
 <Response>
-    <Speak loop = "2" voice = "WOMAN" language = "nl-NL">pa</Speak>
-    <Speak loop = "3" voice = "MAN" language = "da-DK">mi</Speak>
-    <Speak loop = "2" voice = "WOMAN" language = "sv-SE">a</Speak>
-    <Speak loop = "3" voice = "WOMAN" language = "en-GB">wu</Speak>
-    <Speak loop = "2" voice = "WOMAN" language = "nl-NL">pa</Speak>
-    <Speak loop = "3" voice = "MAN" language = "da-DK">mi</Speak>
-    <Speak loop = "2" voice = "WOMAN" language = "sv-SE">a</Speak>
-    <Speak loop = "3" voice = "WOMAN" language = "en-GB">wu</Speak>
-    <Speak loop = "2" voice = "WOMAN" language = "nl-NL">pa</Speak>
-    <Speak loop = "3" voice = "MAN" language = "da-DK">mi</Speak>
-    <Speak loop = "2" voice = "WOMAN" language = "sv-SE">a</Speak>
-    <Speak loop = "3" voice = "WOMAN" language = "en-GB">wu</Speak>
+    <Speak voice = "WOMAN" language = "nl-NL">pa</Speak>
+    <Speak voice = "MAN" language = "da-DK">mi</Speak>
+    <Speak voice = "WOMAN" language = "sv-SE">a</Speak>
+    <Speak voice = "WOMAN" language = "en-GB">wu</Speak>
+    <Speak voice = "WOMAN" language = "nl-NL">pa</Speak>
+    <Speak voice = "MAN" language = "da-DK">mi</Speak>
+    <Speak voice = "WOMAN" language = "sv-SE">a</Speak>
+    <Speak voice = "WOMAN" language = "en-GB">wu</Speak>
+    <Speak voice = "WOMAN" language = "nl-NL">pa</Speak>
+    <Speak voice = "MAN" language = "da-DK">mi</Speak>
+    <Speak voice = "WOMAN" language = "sv-SE">a</Speak>
+    <Speak voice = "WOMAN" language = "en-GB">wu</Speak>
 </Response>
