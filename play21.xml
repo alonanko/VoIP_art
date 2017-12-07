@@ -1,24 +1,10 @@
 <Response>
-    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmm</Speak>
-    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmmm</Speak>
-    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmmmm</Speak>
-    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
-    <Speak loop = "4" voice = "MAN" language = "en-US">vvvvvvvvvvvvvvvvvvvv</Speak>
-    <Speak loop = "4" voice = "MAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "MAN" language = "en-US">bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</Speak>
-    <Speak voice = "MAN" language = "en-US">bbbbbbbbbbbbbbbbbbbbbbbb</Speak>
+    <Speak voice = "MAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
     <Speak voice = "MAN" language = "en-US">bbbbbbbbbbbbbb</Speak>
-    <Speak voice = "MAN" language = "en-US">bbbbbb</Speak>
-    <Speak loop = "4" voice = "MAN" language = "en-US">lala</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
+    <Speak voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
+    <Speak voice = "MAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
+    <Speak voice = "MAN" language = "en-US">bbbbbbbbbbbbbb</Speak>
+    <Speak voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
 </Response>
