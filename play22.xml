@@ -1,6 +1,7 @@
 <Response>
-    <Speak voice = "WOMAN" language = "fr-CA">pedj</Speak>
-    <Speak voice = "MAN" language = "pt-PT">monr</Speak>
-    <Speak voice = "WOMAN" language = "ru-RU">qorp</Speak>
-    <Speak voice = "WOMAN" language = "es-US">lacst</Speak>
+    <Wait length = "1" />
+    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">opa</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "pt-PT">li</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "pl-PL">l</Speak>
+    <Speak loop = "4" voice = "MAN" language = "es-ES">fufuf</Speak>
 </Response>
