@@ -1,20 +1,20 @@
 <Response>
     <Wait length = "1" />
-    <Speak voice = "MAN" language = "fr-FR">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "MAN" language = "fr-FR">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
-    <Speak voice = "MAN" language = "fr-FR">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
-    <Speak voice = "MAN" language = "fr-FR">ooooooooooooo</Speak>
-    <Speak voice = "MAN" language = "fr-FR">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "MAN" language = "fr-FR">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
-    <Speak voice = "MAN" language = "fr-FR">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
-    <Speak voice = "MAN" language = "fr-FR">uuuuuuuuuuuuu</Speak>
-    <Speak voice = "MAN" language = "fr-FR">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "MAN" language = "fr-FR">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
-    <Speak voice = "MAN" language = "fr-FR">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
-    <Speak voice = "MAN" language = "fr-FR">oooooooooooooooooooooooooooooooooooooooooo</Speak>
-    <Speak voice = "MAN" language = "fr-FR">uuuuuuuuuuuu</Speak>
-    <Speak voice = "MAN" language = "fr-FR">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "MAN" language = "fr-FR">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
-    <Speak voice = "MAN" language = "fr-FR">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
-    <Speak voice = "MAN" language = "fr-FR">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak>
+    <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "es-ES">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "es-ES">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "es-ES">ooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "es-ES">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "es-ES">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "es-ES">uuuuuuuuuuuuu</Speak>
+    <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "es-ES">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "es-ES">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "es-ES">oooooooooooooooooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "es-ES">uuuuuuuuuuuu</Speak>
+    <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "es-ES">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "es-ES">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "es-ES">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak>
 </Response>
