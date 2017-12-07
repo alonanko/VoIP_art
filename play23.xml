@@ -1,12 +1,12 @@
 <Response>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">kr</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pt-PT">m</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "es-US">qz</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">kr</Speak>
-    <Speak loop = "2" voice = "MAN" language = "pt-PT">m</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">kr</Speak>
-    <Speak loop = "2" voice = "MAN" language = "pt-PT">m</Speak>
-    <Speak loop = "3" voice = "WOMAN" language = "fr-CA">kr</Speak>
-    <Speak loop = "1" voice = "MAN" language = "pt-PT">m</Speak>
-    <Speak loop = "4" voice = "WOMAN" language = "es-US">qz</Speak>
+    <Speak voice = "WOMAN" language = "fr-CA">kr</Speak>
+    <Speak voice = "MAN" language = "pt-PT">m</Speak>
+    <Speak voice = "WOMAN" language = "es-US">qz</Speak>
+    <Speak voice = "WOMAN" language = "fr-CA">kr</Speak>
+    <Speak voice = "MAN" language = "pt-PT">m</Speak>
+    <Speak voice = "WOMAN" language = "fr-CA">kr</Speak>
+    <Speak voice = "MAN" language = "pt-PT">m</Speak>
+    <Speak voice = "WOMAN" language = "fr-CA">kr</Speak>
+    <Speak voice = "MAN" language = "pt-PT">m</Speak>
+    <Speak voice = "WOMAN" language = "es-US">qz</Speak>
 </Response>
