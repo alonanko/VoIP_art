@@ -1,15 +1,45 @@
 <Response>
-    <Speak voice = "WOMAN" language = "it-IT">rfrfrfrfrfrfrfrfrf</Speak>
+    <Wait length = "1" />
     <Speak voice = "WOMAN" language = "it-IT">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "WOMAN" language = "it-IT">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "WOMAN" language = "it-IT">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "WOMAN" language = "it-IT">ooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "WOMAN" language = "it-IT">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak>
+    <Wait length = "1" />
+    <Speak voice = "WOMAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "WOMAN" language = "en-US">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "WOMAN" language = "en-US">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "WOMAN" language = "en-US">ooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "WOMAN" language = "en-US">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak>
+    <Wait length = "1" />
+    <Speak voice = "WOMAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "WOMAN" language = "es-ES">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "WOMAN" language = "es-ES">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "WOMAN" language = "es-ES">ooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "WOMAN" language = "es-ES">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak> 
+    <Wait length = "1" />
+    <Speak voice = "MAN" language = "it-IT">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "it-IT">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "it-IT">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "it-IT">ooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "it-IT">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak>
+    <Wait length = "1" />
+    <Speak voice = "MAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "en-US">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "en-US">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "en-US">ooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "en-US">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak>
+    <Wait length = "1" />
+    <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "es-ES">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "es-ES">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
+    <Speak voice = "MAN" language = "es-ES">ooooooooooooooooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "es-ES">uuuuuuuuuuuuuuuuuuuuuuuuuuu</Speak> 
+    <Wait length = "1" />
     <Speak voice = "MAN" language = "it-IT">mmmmmmmmmmmmm</Speak>
     <Speak voice = "MAN" language = "it-IT">bbbbbbbbbbbbbb</Speak>
     <Speak voice = "WOMAN" language = "it-IT">mmmmmmmmmmmmm</Speak>
-    <Speak voice = "WOMAN" language = "en-US">are you ready?</Speak>
-    <Speak voice = "MAN" language = "nl-NL">mmmmmmmmmmmmm</Speak>
-    <Speak voice = "WOMAN" language = "nl-NL">bbbbbbbbbbbbbb</Speak>
-    <Speak voice = "WOMAN" language = "nl-NL">mmmmmmmmmmmmm</Speak>    
     <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "WOMAN" language = "en-GB">i am going to sell you shit</Speak>
     <Speak voice = "MAN" language = "es-ES">bbbbbbbbbbbbbb</Speak>
     <Speak voice = "MAN" language = "es-ES">mmmmmmmmmmmmm</Speak>
     <Speak voice = "WOMAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
