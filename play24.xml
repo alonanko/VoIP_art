@@ -1,14 +1,5 @@
 <Response>
-    <Speak voice = "WOMAN" language = "nl-NL">pa</Speak>
-    <Speak voice = "MAN" language = "da-DK">mi</Speak>
-    <Speak voice = "WOMAN" language = "sv-SE">a</Speak>
-    <Speak voice = "WOMAN" language = "en-GB">wu</Speak>
-    <Speak voice = "WOMAN" language = "nl-NL">pa</Speak>
-    <Speak voice = "MAN" language = "da-DK">mi</Speak>
-    <Speak voice = "WOMAN" language = "sv-SE">a</Speak>
-    <Speak voice = "WOMAN" language = "en-GB">wu</Speak>
-    <Speak voice = "WOMAN" language = "nl-NL">pa</Speak>
-    <Speak voice = "MAN" language = "da-DK">mi</Speak>
-    <Speak voice = "WOMAN" language = "sv-SE">a</Speak>
-    <Speak voice = "WOMAN" language = "en-GB">wu</Speak>
+    <Speak voice = "WOMAN" language = "it-IT">o oo ooo oooo ooooo oooooo oooooooo ooooooooooo ooooooooooooooo ooooooooooooooooooo
+      oooooooooooooooooooooooooooooo oooooooooooooooooooooooooooooooooooooooooooooooooooooooo ooooooooooooooooooooooooooooooooo
+      oooooooooooooooo  oooooooooooo  ooooooo  ooooooo  oooo ooo  oo o</Speak>
 </Response>
