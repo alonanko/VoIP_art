@@ -3,16 +3,16 @@
     <Speak voice = "MAN" language = "it-IT">mmmmmmmmmmmmm</Speak>
     <Speak voice = "MAN" language = "it-IT">bbbbbbbbbbbbbb</Speak>
     <Speak voice = "WOMAN" language = "it-IT">mmmmmmmmmmmmm</Speak>
-    <Speak voice = "MAN" language = "nl-NL">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "nl-NL">are you ready?</Speak>
     <Speak voice = "MAN" language = "nl-NL">mmmmmmmmmmmmm</Speak>
     <Speak voice = "WOMAN" language = "nl-NL">bbbbbbbbbbbbbb</Speak>
     <Speak voice = "WOMAN" language = "nl-NL">mmmmmmmmmmmmm</Speak>    
     <Speak voice = "MAN" language = "es-ES">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
-    <Speak voice = "WOMAN" language = "es-ES">mmmmmmmmmmmmm</Speak>
+    <Speak voice = "WOMAN" language = "es-ES">i am going to sell you shit</Speak>
     <Speak voice = "MAN" language = "es-ES">bbbbbbbbbbbbbb</Speak>
     <Speak voice = "MAN" language = "es-ES">mmmmmmmmmmmmm</Speak>
     <Speak voice = "WOMAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
     <Speak voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
     <Speak voice = "MAN" language = "en-US">bbbbbbbbbbbbbb</Speak>
-    <Speak voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
+    <Speak voice = "MAN" language = "en-US">oh yes baby</Speak>
 </Response>
