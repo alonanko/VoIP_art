@@ -1,6 +1,8 @@
 <Response>
-    <Speak loop = "4" voice = "MAN" language = "en-US">mmmmmmmmmmmmmmmmmmmmm</Speak>
-    <Speak loop = "4" voice = "MAN" language = "en-US">mmmmmmmmmmm</Speak>
+    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmm</Speak>
+    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmmm</Speak>
+    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmmmm</Speak>
+    <Speak loop = "2" voice = "MAN" language = "en-US">mmmmmmmmmmmmm</Speak>
     <Speak loop = "4" voice = "MAN" language = "en-US">vvvvvvvvvvvvvvvvvvvv</Speak>
     <Speak loop = "4" voice = "MAN" language = "en-US">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
     <Speak voice = "MAN" language = "en-US">bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</Speak>
