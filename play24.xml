@@ -1,6 +1,14 @@
 <Response>
-    <Speak voice = "WOMAN" language = "fr-CA">pedj</Speak>
-    <Speak voice = "MAN" language = "pt-PT">monr</Speak>
-    <Speak voice = "WOMAN" language = "ru-RU">qorp</Speak>
-    <Speak voice = "WOMAN" language = "es-US">lacst</Speak>
+    <Speak loop = "2" voice = "WOMAN" language = "nl-NL">jl</Speak>
+    <Speak loop = "3" voice = "MAN" language = "da-DK">mr</Speak>
+    <Speak loop = "2" voice = "WOMAN" language = "sv-SE">a</Speak>
+    <Speak loop = "3" voice = "WOMAN" language = "en-GB">wp</Speak>
+    <Speak loop = "2" voice = "WOMAN" language = "nl-NL">jl</Speak>
+    <Speak loop = "3" voice = "MAN" language = "da-DK">mr</Speak>
+    <Speak loop = "2" voice = "WOMAN" language = "sv-SE">a</Speak>
+    <Speak loop = "3" voice = "WOMAN" language = "en-GB">wp</Speak>
+    <Speak loop = "2" voice = "WOMAN" language = "nl-NL">jl</Speak>
+    <Speak loop = "3" voice = "MAN" language = "da-DK">mr</Speak>
+    <Speak loop = "2" voice = "WOMAN" language = "sv-SE">a</Speak>
+    <Speak loop = "3" voice = "WOMAN" language = "en-GB">wp</Speak>
 </Response>
