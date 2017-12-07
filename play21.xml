@@ -4,4 +4,19 @@
     <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
     <Speak loop = "4" voice = "WOMAN" language = "ru-RU">lul</Speak>
     <Speak loop = "4" voice = "WOMAN" language = "es-US">fufuf</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
+    <Wait length = "1" />
+    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "ru-RU">lul</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "es-US">fufuf</Speak>    
+    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
+    <Wait length = "1" />
+    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "ru-RU">lul</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "es-US">fufuf</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
+    <Wait length = "1" />
+    <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "ru-RU">lul</Speak>
+    <Speak loop = "4" voice = "WOMAN" language = "es-US">fufuf</Speak>
 </Response>
