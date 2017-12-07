@@ -1,8 +1,8 @@
 <Response>
-    <Speak loop = "4" voice = "MAN" language = "pl-PL">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pl-PL">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pl-PL">a</Speak>
-    <Speak loop = "4" voice = "MAN" language = "pl-PL">a</Speak>
+    <Speak loop = "4" voice = "MAN" language = "pl-PL">la</Speak>
+    <Speak loop = "4" voice = "MAN" language = "pl-PL">la</Speak>
+    <Speak loop = "4" voice = "MAN" language = "pl-PL">la</Speak>
+    <Speak loop = "4" voice = "MAN" language = "pl-PL">la</Speak>
     <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
     <Speak loop = "4" voice = "WOMAN" language = "fr-CA">a</Speak>
     <Speak loop = "4" voice = "MAN" language = "pt-PT">ch</Speak>
