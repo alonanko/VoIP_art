@@ -1,3 +1,18 @@
-<Response>
-    <Speak loop = "3" voice = "MAN" language = "en-US"> aaa!??!?! ! ! ! !!! ! ! ??? ? ? ? ! ! ! ?! ?!??!</Speak>
+<Response>    
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">ooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">ooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">ooooooooooooo</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
+    <Speak voice = "MAN" language = "sv-SE">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "MAN" language = "sv-SE">ooooooooooooo</Speak>
 </Response>
