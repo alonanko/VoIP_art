@@ -1,6 +1,6 @@
 <Response>
     <Wait length = "1" />
-    <Speak voice = "WOMAN" language = "it-IT">aaaaaaaaaaaaaaaaaaaaaaaaaaa</Speak>
+    <Speak voice = "WOMAN" language = "en-US">your bank information is now mine, hav fun being broke</Speak>
     <Speak voice = "WOMAN" language = "it-IT">eeeeeeeeeeeeeeeeeeeeeeeeeee</Speak>
     <Speak voice = "WOMAN" language = "it-IT">iiiiiiiiiiiiiiiiiiiiiiiiiii</Speak>
     <Speak voice = "WOMAN" language = "it-IT">ooooooooooooo</Speak>
